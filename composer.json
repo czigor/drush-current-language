@@ -1,5 +1,5 @@
 {
-    "name": "zaporylie/drush-current-language",
+    "name": "czigor/drush-current-language",
     "description": "Makes sure the current language is correctly resolved and translation_manager knows of it.",
     "type": "drupal-drush",
     "require": {
